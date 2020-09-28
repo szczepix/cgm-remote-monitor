@@ -71,7 +71,7 @@
     "flot": "^0.8.0-alpha",
     "forever": "^0.15.3",
     "git-rev": "git://github.com/bewest/git-rev.git",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.0",
     "jquery-ui-bundle": "^1.12.1",
     "jquery.tipsy": "^1.0.3",
     "js-storage": "^1.0.1",
